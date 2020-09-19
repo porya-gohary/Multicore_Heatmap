@@ -3,7 +3,7 @@ Simple python code for drawing  heatmap of multicore processors
 
 
 <p align="center">
-  <img alt="Heatmap" title="HeatMAP" src="https://github.com/porya-gohary/Multicore_Heatmap/new/master/sample.png" >
+  <img alt="Heatmap" title="HeatMAP" src="https://github.com/porya-gohary/Multicore_Heatmap/blob/master/sample.png" >
 </p>
 
 
